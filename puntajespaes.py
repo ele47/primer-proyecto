@@ -141,17 +141,17 @@ DATABASE = {
 
             "Ensayos": ["Marzo", "Abril"],
 
-            "Puntajes": [632, 900],
+            "Puntajes": [698, 900],
          
-            "Buenas": [50, 62],
+            "Buenas": [58, 62],
 
-            "Eje Biologia": [60, 86],
+            "Eje Biologia": [67, 86],
 
-            "Eje Química": [70, 83],
+            "Eje Química": [94, 83],
 
-            "Eje Física": [65, 74],
+            "Eje Física": [75, 74],
 
-            "Mención": [68,86]
+            "Mención": [64,86]
 
 
         },
