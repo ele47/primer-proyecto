@@ -31,6 +31,21 @@ DATABASE = {
             "Eje Geomtría": [65, 79],
 
             "Eje Probabilidades": [20, 90]
+         
+        },
+
+        "Ciencias": {
+
+            "Ensayos": ["Febrero","Marzo","Abril"],
+
+            "Puntajes": [810, 700, 900],
+
+            "Buenas": [55, 48, 62],
+
+            "Eje Números": [90, 60, 86],
+
+            "Eje Álgebra": [85, 70, 83]
+
 
         },
 
