@@ -30,7 +30,7 @@ DATABASE = {
 
             "Eje Geomtría": [65, 79],
 
-            "Eje Probabilidades": [20, 90]
+            "Eje Probabilidades": [20, 90],
          
         },
 
@@ -44,9 +44,9 @@ DATABASE = {
 
             "Eje Biologia": [60, 86],
 
-            "Eje Química": [70, 83]
+            "Eje Química": [70, 83],
 
-            "Eje Física": [65, 74]
+            "Eje Física": [65, 74],
 
             "Mención": [68,86]
 
@@ -63,7 +63,7 @@ DATABASE = {
 
             "Eje Localizar": [50, 60],
 
-            "Eje Interpretar": [40, 55]
+            "Eje Interpretar": [40, 55],
 
             "Eje Evaluar": [45, 55]
 
