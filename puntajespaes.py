@@ -36,15 +36,19 @@ DATABASE = {
 
         "Ciencias": {
 
-            "Ensayos": ["Febrero","Marzo","Abril"],
+            "Ensayos": ["Marzo","Abril"],
 
-            "Puntajes": [810, 700, 900],
+            "Puntajes": [632, 900],
+         
+            "Buenas": [50, 62],
 
-            "Buenas": [55, 48, 62],
+            "Eje Biologia": [60, 86],
 
-            "Eje Números": [90, 60, 86],
+            "Eje Química": [70, 83]
 
-            "Eje Álgebra": [85, 70, 83]
+            "Eje Física": [65, 74]
+
+            "Mención": [68,86]
 
 
         },
@@ -57,9 +61,11 @@ DATABASE = {
 
             "Buenas": [38, 42], 
 
-            "Eje_Rastreo": [50, 60],
+            "Eje Localizar": [50, 60],
 
-            "Eje_Interpretación": [40, 55]
+            "Eje Interpretar": [40, 55]
+
+            "Eje Evaluar": [45, 55]
 
         }
 
