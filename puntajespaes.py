@@ -115,6 +115,78 @@ DATABASE = {
 
         }
 
+    },
+
+    "Eleonora": {
+
+        "M1": {
+
+            "Ensayos": ["Marzo", "Abril"],
+
+            "Puntajes": [915],
+
+            "Buenas": [56],
+
+            "Eje Números": [100],
+
+            "Eje Álgebra": [95],
+
+            "Eje Geomtría": [97],
+
+            "Eje Probabilidades": [92],
+         
+        },
+
+        "Ciencias": {
+
+            "Ensayos": ["Marzo","Abril"],
+
+            "Puntajes": [632, 900],
+         
+            "Buenas": [50, 62],
+
+            "Eje Biologia": [60, 86],
+
+            "Eje Química": [70, 83],
+
+            "Eje Física": [65, 74],
+
+            "Mención": [68,86]
+
+
+        },
+
+        "Lenguaje": {
+
+            "Ensayos": ["Marzo", "Abril"],
+
+            "Puntajes": [600, 640],
+
+            "Buenas": [38, 42], 
+
+            "Eje Localizar": [50, 60],
+
+            "Eje Interpretar": [40, 55],
+
+            "Eje Evaluar": [45, 55]
+
+        },
+     "M2": {
+            "Ensayos": ["Marzo","Abril"],
+            "Puntajes":[601],
+            "Buenas": [29],
+            "Eje Números": [73],
+
+            "Eje Álgebra": [65],
+
+            "Eje Geomtría": [60],
+
+            "Eje Probabilidades": [12],
+      
+
+
+        }
+
     }
 
 }
