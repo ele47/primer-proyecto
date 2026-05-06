@@ -121,7 +121,7 @@ DATABASE = {
 
         "M1": {
 
-            "Ensayos": ["Marzo", "Abril"],
+            "Ensayos": ["Marzo"],
 
             "Puntajes": [915],
 
@@ -139,7 +139,7 @@ DATABASE = {
 
         "Ciencias": {
 
-            "Ensayos": ["Marzo","Abril"],
+            "Ensayos": ["Marzo", "Abril"],
 
             "Puntajes": [632, 900],
          
@@ -172,7 +172,7 @@ DATABASE = {
 
         },
      "M2": {
-            "Ensayos": ["Marzo","Abril"],
+            "Ensayos": ["Marzo"],
             "Puntajes":[601],
             "Buenas": [29],
             "Eje Números": [73],
