@@ -283,7 +283,7 @@ with tab3:
 
     if columnas_ejes:
 
-        fig_ejes = px.line(df, x="Ensayos", y=columnas_ejes, markers=True),
+        fig_ejes = px.line(df, x="Ensayos", y=columnas_ejes, markers=True,
 
                           title="Rendimiento por Ejes (%)")
 
